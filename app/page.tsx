@@ -196,7 +196,7 @@ export default function Home() {
                     </span>
                   </div>
                   <blockquote className="text-gray-700 mb-4">
-                    "{testimonial.quote}"
+                    {testimonial.quote}
                   </blockquote>
                   <div className="border-t pt-4">
                     <div className="font-semibold text-gray-900">

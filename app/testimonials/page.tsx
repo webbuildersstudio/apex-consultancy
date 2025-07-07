@@ -132,7 +132,7 @@ export default function Testimonials() {
                   <div className="relative mb-6">
                     <Quote className="absolute -top-2 -left-2 h-6 w-6 text-blue-200" />
                     <blockquote className="text-gray-700 italic pl-4">
-                      "{testimonial.quote}"
+                      {testimonial.quote}
                     </blockquote>
                   </div>
 

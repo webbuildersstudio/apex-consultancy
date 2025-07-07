@@ -82,7 +82,7 @@ export default function Contact() {
               Get in Touch
             </h1>
             <p className="text-xl text-blue-100">
-              Ready to transform your business? Let's discuss how we can help
+              Ready to transform your business? Let&apos;s discuss how we can help
               you achieve your goals.
             </p>
           </div>

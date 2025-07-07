@@ -70,7 +70,7 @@ export default function Testimonials() {
               Client Testimonials
             </h1>
             <p className="text-xl text-blue-100">
-              Discover how we've helped businesses like yours achieve remarkable
+              Discover how we&apos;ve helped businesses like yours achieve remarkable
               results and sustainable growth.
             </p>
           </div>
@@ -167,7 +167,7 @@ export default function Testimonials() {
               Trusted by Industry Leaders
             </h2>
             <p className="text-xl text-gray-600">
-              We're proud to work with companies across various industries
+              We&apos;re proud to work with companies across various industries
             </p>
           </div>
 
@@ -200,7 +200,7 @@ export default function Testimonials() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">Join Our Success Stories</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Ready to achieve similar results for your business? Let's discuss
+            Ready to achieve similar results for your business? Let&apos;s discuss
             how we can help you reach your goals.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

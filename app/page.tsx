@@ -228,7 +228,7 @@ export default function Home() {
             Ready to Transform Your Business?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Let's discuss how our expert consulting services can help you
+            Let&apos;s discuss how our expert consulting services can help you
             achieve your strategic objectives and drive sustainable growth.
           </p>
           <Button
